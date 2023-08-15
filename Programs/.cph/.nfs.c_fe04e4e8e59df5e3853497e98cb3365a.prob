@@ -1,0 +1,1 @@
+{"name":"Local: nfs","url":"c:\\Users\\ayush\\OneDrive\\Documents\\Programs\\nfs.c","tests":[{"id":1687909411028,"input":"6\n10000\n320000\n-80\n34400\n33344\n90","output":"1000\n10000\n-80000\n-80000\n-80000\n90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ayush\\OneDrive\\Documents\\Programs\\nfs.c","group":"local","local":true}
